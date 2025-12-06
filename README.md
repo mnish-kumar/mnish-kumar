@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Manish Kumar, a final-year BTech CSE student and a passionate developer who loves building real-world projects and improving problem-solving skills every single day.<br>I enjoy working with Java, Data Structures & Algorithms, and I’m currently focused on becoming a strong Full-Stack Web Developer.<br><br>🔥 Currently doing a Daily Coding Challenge (LeetCode + GFG)<br><br>🌱 Learning MERN Stack (React, Node.js, Express, MongoDB)<br><br>💡 Interested in AI Bots, Web Apps, Automations & Cloud Concepts<br><br>🧠 Strong in Java DSA, actively solving medium/hard problems<br><br>🚀 Building projects like: Face Emotion Detection App, Notes App, WhatsApp Bot<br><br>💼 Open to internships, freelance projects, and collaborations<br><br>⚡ Fun fact: I learn something new every day and apply it immediately in projects.
+I’m Manish Kumar, a final-year BTech CSE student and a passionate developer who loves building real-world projects and improving problem-solving skills every single day.<br>I enjoy working with Java, Data Structures & Algorithms, and I’m currently focused on becoming a strong Full-Stack Web Developer.<br><br>🔥 Currently doing a Daily Coding Challenge (LeetCode + GFG)<br>🌱 Learning MERN Stack (React, Node.js, Express, MongoDB)<br>💡 Interested in AI Bots, Web Apps, Automations & Cloud Concepts<br>🧠 Strong in Java DSA, actively solving medium/hard problems<br>🚀 Building projects like: Face Emotion Detection App, Notes App, WhatsApp Bot<br>💼 Open to internships, freelance projects, and collaborations<br>⚡ Fun fact: I learn something new every day and apply it immediately in projects.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@ I’m Manish Kumar, a final-year BTech CSE student and a passionate developer wh
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mnish-kumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnish-kumar&limit=5&theme=panda&combine_all_yearly_contributions=true)
